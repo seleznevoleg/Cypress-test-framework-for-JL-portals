@@ -1,0 +1,21 @@
+{
+    "adminAccountMenuInfo": ".dropdown-menu > .disabled > a",
+    "adminAccountMenuButton": ":nth-child(3) > .dropdown-toggle",
+    "managerCreationTitelField": "[id=\"CompanyEmployer_title\"]",
+    "managerCreationVornameField": "[id=\"CompanyEmployer_firstname\"]",
+    "managerCreationNachnameField": "[id=\"CompanyEmployer_lastname\"]",
+    "managerCreationEmailField": "[id=\"CompanyEmployer_email\"]",
+    "managerCreationFirstCheckbox": "[id=\"CompanyEmployerRolesFormModel_roles_0\"]",
+    "managerCreationActivationCheckbox": "[id=\"CompanyEmployer_send_activation_mail\"]",
+    "companyCreationName": "[id=\"CompanyCreate_name\"]",
+    "companyCreationActivated": "[id=\"CompanyCreate_activate_company\"]",
+    "companyHomeDomainId": "[id=\"CompanyCreate_create_id\"]",
+    "companyAddressSrteet": "[id=\"Address_street\"]",
+    "companyAddressPostcode": "[id=\"Address_zipcode\"]",
+    "companyAddressCity": "[id=\"Address_city\"]",
+    "companyAddressCountry": "[id=\"Address_country_id\"]",
+    "companyEmployeeNumber": "[id=\"CompanyCreate_employees\"]",
+    "companyShowEmployeeNumber": "[id=\"CompanyCreate_show_employees\"]",
+    "companyUpdateEmployeeNumber": "[id=\"CompanyCreate_update_employees\"]",
+    "companyCreationSubmitButton": "[id=\"CompanyCreateCompanySubmit\"]"
+}

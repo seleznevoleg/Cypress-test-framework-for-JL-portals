@@ -1,0 +1,104 @@
+{
+  "stats": {
+    "suites": 1,
+    "tests": 1,
+    "passes": 0,
+    "pending": 0,
+    "failures": 1,
+    "start": "2024-05-08T09:45:24.127Z",
+    "end": "2024-05-08T09:46:26.036Z",
+    "duration": 61909,
+    "testsRegistered": 1,
+    "passPercent": 0,
+    "pendingPercent": 0,
+    "other": 0,
+    "hasOther": false,
+    "skipped": 0,
+    "hasSkipped": false
+  },
+  "results": [
+    {
+      "uuid": "38daca11-4655-43c5-b2f4-b1b4ba6b38da",
+      "title": "",
+      "fullFile": "cypress/e2e/tickets/19073_mfd_in_occupation_title.cy.js",
+      "file": "cypress/e2e/tickets/19073_mfd_in_occupation_title.cy.js",
+      "beforeHooks": [],
+      "afterHooks": [],
+      "tests": [],
+      "suites": [
+        {
+          "uuid": "8d1ecc5f-d8bb-453d-9333-93e5b3e305da",
+          "title": "Verifying that each occupation on each portal has a mfd suffix in title",
+          "fullFile": "",
+          "file": "",
+          "beforeHooks": [],
+          "afterHooks": [],
+          "tests": [
+            {
+              "title": "Check links on portal MUC",
+              "fullTitle": "Verifying that each occupation on each portal has a mfd suffix in title Check links on portal MUC",
+              "timedOut": null,
+              "duration": 59923,
+              "state": "failed",
+              "speed": null,
+              "pass": false,
+              "fail": true,
+              "pending": false,
+              "context": "[\n  \"Test passed, here is additional info:\",\n  \"/abteilungsleiter\",\n  \"Test passed, here is additional info:\",\n  \"/access-programmierer\",\n  \"Test passed, here is additional info:\",\n  \"/account-manager\",\n  \"Test passed, here is additional info:\",\n  \"/altenpfleger\",\n  \"Test passed, here is additional info:\",\n  \"/analyst\",\n  \"Test passed, here is additional info:\",\n  \"/anlagenbauer\",\n  \"Test passed, here is additional info:\",\n  \"/anlagenmechaniker\",\n  \"Test passed, here is additional info:\",\n  \"/application-engineer\",\n  \"Test passed, here is additional info:\",\n  \"/architekt\",\n  \"Test passed, here is additional info:\",\n  \"/artdirector\",\n  \"Test passed, here is additional info:\",\n  \"/arzthelfer\",\n  \"Test passed, here is additional info:\",\n  \"/assistent\",\n  \"Test passed, here is additional info:\",\n  \"/au%C3%9Fendienstmitarbeiter\",\n  \"Test passed, here is additional info:\",\n  \"/au%C3%9Fenhandelskauffrau-au%C3%9Fenhandelskaufmann\",\n  \"Test passed, here is additional info:\",\n  \"/automatisierungstechniker\",\n  \"Test passed, here is additional info:\",\n  \"/automobilkauffrau-automobilkaufmann\",\n  \"Test passed, here is additional info:\",\n  \"/%C3%A4rztin-arzt\",\n  \"Test passed, here is additional info:\",\n  \"/baecker\",\n  \"Test passed, here is additional info:\",\n  \"/baeckereiverkaeufer\",\n  \"Test passed, here is additional info:\",\n  \"/bankkauffrau-bankkaufmann\",\n  \"Test passed, here is additional info:\",\n  \"/barkeeper\",\n  \"Test passed, here is additional info:\",\n  \"/bauingenieur\",\n  \"Test passed, here is additional info:\",\n  \"/bauleiter\",\n  \"Test passed, here is additional info:\",\n  \"/bautechniker\",\n  \"Test passed, here is additional info:\",\n  \"/beamtin-beamter\",\n  \"Test passed, here is additional info:\",\n  \"/berechnungsingenieur\",\n  \"Test passed, here is additional info:\",\n  \"/berufskraftfahrer\",\n  \"Test passed, here is additional info:\",\n  \"/betriebselektriker\",\n  \"Test passed, here is additional info:\",\n  \"/betriebsleiter\",\n  \"Test passed, here is additional info:\",\n  \"/betriebstechniker\",\n  \"Test passed, here is additional info:\",\n  \"/bewegungstherapeut\",\n  \"Test passed, here is additional info:\",\n  \"/bezirksleiter\",\n  \"Test passed, here is additional info:\",\n  \"/bilanzbuchhalter\",\n  \"Test passed, here is additional info:\",\n  \"/biologin-biologe\",\n  \"Test passed, here is additional info:\",\n  \"/biologisch-technisch-assistent\",\n  \"Test passed, here is additional info:\",\n  \"/buchhalter\",\n  \"Test passed, here is additional info:\",\n  \"/buerokauffrau-buerokaufmann\",\n  \"Test passed, here is additional info:\",\n  \"/buerokraft\",\n  \"Test passed, here is additional info:\",\n  \"/business-development-manager\",\n  \"Test passed, here is additional info:\",\n  \"/cad-konstrukteur\",\n  \"Test passed, here is additional info:\",\n  \"/cad-zeichner\",\n  \"Test passed, here is additional info:\",\n  \"/call-center-agent\",\n  \"Test passed, here is additional info:\",\n  \"/category-manager\",\n  \"Test passed, here is additional info:\",\n  \"/chauffeur\",\n  \"Test passed, here is additional info:\",\n  \"/chef-de-partie\",\n  \"Test passed, here is additional info:\",\n  \"/chef-de-rang\",\n  \"Test passed, here is additional info:\",\n  \"/chemieingenieur\",\n  \"Test passed, here is additional info:\",\n  \"/chemielaborant\",\n  \"Test passed, here is additional info:\",\n  \"/cnc-dreher\",\n  \"Test passed, here is additional info:\",\n  \"/consultant\",\n  \"Test passed, here is additional info:\",\n  \"/content-manager\",\n  \"Test passed, here is additional info:\",\n  \"/controller\",\n  \"Test passed, here is additional info:\",\n  \"/dachdecker\",\n  \"Test passed, here is additional info:\",\n  \"/designer\",\n  \"Test passed, here is additional info:\",\n  \"/developer\",\n  \"Test passed, here is additional info:\",\n  \"/digitaldrucker\",\n  \"Test passed, here is additional info:\",\n  \"/disponent\",\n  \"Test passed, here is additional info:\",\n  \"/drogist\",\n  \"Test passed, here is additional info:\",\n  \"/einkaeufer\",\n  \"Test passed, here is additional info:\",\n  \"/einsatzleiter\",\n  \"Test passed, here is additional info:\",\n  \"/einzelhandelskauffrau-einzelhandelskaufmann\",\n  \"Test passed, here is additional info:\",\n  \"/elektroingenieur\",\n  \"Test passed, here is additional info:\",\n  \"/elektrokonstrukteur\",\n  \"Test passed, here is additional info:\",\n  \"/elektromechaniker\",\n  \"Test passed, here is additional info:\",\n  \"/elektroniker\",\n  \"Test passed, here is additional info:\",\n  \"/elektroplaner\",\n  \"Test passed, here is additional info:\",\n  \"/elektrotechniker\",\n  \"Test passed, here is additional info:\",\n  \"/entwicklungsingenieur\",\n  \"Test passed, here is additional info:\",\n  \"/ergotherapeut\",\n  \"Test passed, here is additional info:\",\n  \"/ernaehrungsberater\",\n  \"Test passed, here is additional info:\",\n  \"/erzieher\",\n  \"Test passed, here is additional info:\",\n  \"/eventmanager\",\n  \"Test passed, here is additional info:\",\n  \"/fachberater\",\n  \"Test passed, here is additional info:\",\n  \"/fachkraft-abwassertechnik\",\n  \"Test passed, here is additional info:\",\n  \"/fachkraft-gastgewerbe\",\n  \"Test passed, here is additional info:\",\n  \"/fachkraft-lagerlogistik\",\n  \"Test passed, here is additional info:\",\n  \"/fachkraft-lebensmitteltechnik\",\n  \"Test passed, here is additional info:\",\n  \"/fachkraft-veranstaltungstechnik\",\n  \"Test passed, here is additional info:\",\n  \"/facility-manager\",\n  \"Test passed, here is additional info:\",\n  \"/fahrer\",\n  \"Test passed, here is additional info:\",\n  \"/fahrzeuglackierer\",\n  \"Test passed, here is additional info:\",\n  \"/feinwerkmechaniker\",\n  \"Test passed, here is additional info:\",\n  \"/fertigungsplaner\",\n  \"Test passed, here is additional info:\",\n  \"/finanzbuchhalter\",\n  \"Test passed, here is additional info:\",\n  \"/finanzmakler\",\n  \"Test passed, here is additional info:\",\n  \"/forstwirt\",\n  \"Test passed, here is additional info:\",\n  \"/fremdsprachenkorrespondent\",\n  \"Test passed, here is additional info:\",\n  \"/friseur\",\n  \"Test passed, here is additional info:\",\n  \"/galvaniseur\",\n  \"Test passed, here is additional info:\",\n  \"/gas-wasserinstallateur\",\n  \"Test passed, here is additional info:\",\n  \"/gebaeudereiniger\",\n  \"Test passed, here is additional info:\",\n  \"/gebaeudetechniker\",\n  \"Test passed, here is additional info:\",\n  \"/geschaeftsfuehrer\",\n  \"Test passed, here is additional info:\",\n  \"/gestalter-visuelles-marketing\",\n  \"Test passed, here is additional info:\",\n  \"/grafiker\",\n  \"Test passed, here is additional info:\",\n  \"/handelsassistent\",\n  \"Test passed, here is additional info:\",\n  \"/handelsvertreter\",\n  \"Test passed, here is additional info:\",\n  \"/handwerker\",\n  \"Test passed, here is additional info:\",\n  \"/hausmeister\",\n  \"Test passed, here is additional info:\",\n  \"/haustechniker\",\n  \"Test passed, here is additional info:\",\n  \"/hauswirtschafter\",\n  \"Test passed, here is additional info:\",\n  \"/hebamme-entbindungspfleger\",\n  \"Test passed, here is additional info:\",\n  \"/heilerziehungspfleger\",\n  \"Test passed, here is additional info:\",\n  \"/heilpaedagogin-heilpaedagoge\",\n  \"Test passed, here is additional info:\",\n  \"/heizungsbauer\",\n  \"Test passed, here is additional info:\",\n  \"/heizungsinstallateur\",\n  \"Test passed, here is additional info:\",\n  \"/holztechniker\",\n  \"Test passed, here is additional info:\",\n  \"/hotelfachfrau-hotelfachmann\",\n  \"Test passed, here is additional info:\",\n  \"/hotelkauffrau-hotelkaufmann\",\n  \"Test passed, here is additional info:\",\n  \"/immobilienberater\",\n  \"Test passed, here is additional info:\",\n  \"/immobilienkauffrau-immobilienkaufmann\",\n  \"Test passed, here is additional info:\",\n  \"/immobilienmakler\",\n  \"Test passed, here is additional info:\",\n  \"/immobilienverwalter\"\n]",
+              "code": "cy.visit(portal + '/berufe');\ncy.get('.list-group-item > a').each(($link, index) => {\n  const href = $link.attr('href'); // Get the href attribute\n  cy.visit(portal + href);\n  cy.checkTextContains('.col-md-8.order-last > :nth-child(1) > .col-12', '(m/w/d)');\n  // cy.wait(100)\n  cy.addContext(href);\n  cy.go('back'); // Navigate back to the original page\n  // cy.wait(300)\n});",
+              "err": {
+                "message": "Error: The following error originated from your application code, not from Cypress.\n\n  > Script error.\n\nCypress detected that an uncaught error was thrown from a cross origin script.\n\nWe cannot provide you the stack trace, line number, or file where this error occurred.\n\nCheck your Developer Tools Console for the actual error - it should be printed there.\n\nIt's possible to enable debugging these scripts by adding the `crossorigin` attribute and setting a CORS header.\n\nWhen Cypress detects uncaught errors originating from your application it will automatically fail the current test.\n\nThis behavior is configurable, and you can choose to turn this off by listening to the `uncaught:exception` event.\n\nhttps://on.cypress.io/uncaught-exception-from-application\n\nhttps://on.cypress.io/cross-origin-script-error",
+                "estack": "Error: The following error originated from your application code, not from Cypress.\n\n  > Script error.\n\nCypress detected that an uncaught error was thrown from a cross origin script.\n\nWe cannot provide you the stack trace, line number, or file where this error occurred.\n\nCheck your Developer Tools Console for the actual error - it should be printed there.\n\nIt's possible to enable debugging these scripts by adding the `crossorigin` attribute and setting a CORS header.\n\nWhen Cypress detects uncaught errors originating from your application it will automatically fail the current test.\n\nThis behavior is configurable, and you can choose to turn this off by listening to the `uncaught:exception` event.\n\nhttps://on.cypress.io/uncaught-exception-from-application\n\nhttps://on.cypress.io/cross-origin-script-error",
+                "diff": null
+              },
+              "uuid": "246b8bc9-7897-4176-99a3-96f0235aad1e",
+              "parentUUID": "8d1ecc5f-d8bb-453d-9333-93e5b3e305da",
+              "isHook": false,
+              "skipped": false
+            }
+          ],
+          "suites": [],
+          "passes": [],
+          "failures": [
+            "246b8bc9-7897-4176-99a3-96f0235aad1e"
+          ],
+          "pending": [],
+          "skipped": [],
+          "duration": 59923,
+          "root": false,
+          "rootEmpty": false,
+          "_timeout": 2000
+        }
+      ],
+      "passes": [],
+      "failures": [],
+      "pending": [],
+      "skipped": [],
+      "duration": 0,
+      "root": true,
+      "rootEmpty": true,
+      "_timeout": 2000
+    }
+  ],
+  "meta": {
+    "mocha": {
+      "version": "7.0.1"
+    },
+    "mochawesome": {
+      "options": {
+        "quiet": false,
+        "reportFilename": "mochawesome",
+        "saveHtml": true,
+        "saveJson": true,
+        "consoleReporter": "spec",
+        "useInlineDiffs": false,
+        "code": true
+      },
+      "version": "7.1.3"
+    },
+    "marge": {
+      "options": null,
+      "version": "6.2.0"
+    }
+  }
+}

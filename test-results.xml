@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="264.253" tests="1" failures="0">
+  <testsuite name="Root Suite" timestamp="2024-04-25T12:40:46" tests="0" file="cypress/e2e/tickets/19073_mfd_in_occupation_title.cy.js" time="0.000" failures="0">
+  </testsuite>
+  <testsuite name="Verifying that each occupation on each portal has a mfd suffix in title" timestamp="2024-04-25T12:40:46" tests="1" time="264.245" failures="0">
+    <testcase name="Verifying that each occupation on each portal has a mfd suffix in title Check links on portal MUC" time="262.596" classname="Check links on portal MUC">
+    </testcase>
+  </testsuite>
+</testsuites>

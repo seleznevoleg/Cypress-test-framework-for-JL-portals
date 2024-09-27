@@ -1,0 +1,7 @@
+{
+    "apiEndpointList":[
+        {
+            "jobAdCreation": "https://staging-api.joblocal.de/v4/job-ads/"
+        }
+    ]
+}

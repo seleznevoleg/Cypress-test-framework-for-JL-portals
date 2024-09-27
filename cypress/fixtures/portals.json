@@ -1,0 +1,22 @@
+{
+  "portals": [
+    {
+      "name": "JBB",
+      "type": "OVB",
+      "url": "https://jobsbb.de/",
+      "adminUsername": "admin02",
+      "adminPassword": "adminpassword02",
+      "userUsername": "user02",
+      "userPassword": "userpassword02"
+    },
+    {
+      "name": "RNJ",
+      "type": "JL",
+      "url": "https://rheinneckarjobs.de/",
+      "adminUsername": "admin02",
+      "adminPassword": "adminpassword02",
+      "userUsername": "user02",
+      "userPassword": "userpassword02"
+    }
+  ]
+}

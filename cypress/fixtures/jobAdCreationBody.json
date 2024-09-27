@@ -1,0 +1,120 @@
+{
+    "data": {
+        "attributes": {
+            "title": "Entwickler (*in)",
+            "company_id": 29863,
+            "reference_id": null,
+            "tracking_script_id": null,
+            "backfill_partner": null,
+            "introduction": {
+                "content": "Willkommen bei Objekteinrichtung Nord! Sie sind auf der Suche nach einer neuen beruflichen Herausforderung im Bereich Handwerk \/ Gewerbe? Wir suchen eine*n engagierte*n Lehrer*in, der*die unser Team mit Fachwissen und Begeisterung unterst\u00fctzt. Werden Sie Teil unseres motivierten Teams und gestalten Sie aktiv die Ausbildung unserer zuk\u00fcnftigen Fachkr\u00e4fte mit."
+            },
+            "is_application_attachment_optional": false,
+            "responsibilities": {
+                "title": "Aufgaben",
+                "content": "<ul>\n    <li>Entwicklung von individuellen L\u00f6sungen im Bereich der Objekteinrichtung<\/li>\n    <li>Umsetzung von Kundenanforderungen in kreative und funktionale Designs<\/li>\n    <li>Programmierung und Implementierung von Softwarel\u00f6sungen f\u00fcr die Objekteinrichtung<\/li>\n    <li>Zusammenarbeit mit dem Team, um innovative Konzepte zu entwickeln und umzusetzen<\/li>\n    <li>Optimierung bestehender Prozesse und Systeme zur Steigerung der Effizienz<\/li>\n    <li>Gew\u00e4hrleistung der Qualit\u00e4tssicherung und Einhaltung von Zeitpl\u00e4nen<\/li>\n    <li>Dokumentation der Entwicklungsschritte und Ergebnisse<\/li>\n<\/ul>"
+            },
+            "requirements": {
+                "title": "Anforderungen",
+                "content": "<ul>\n    <li>Abgeschlossenes Studium der Informatik, Wirtschaftsinformatik oder eine vergleichbare Ausbildung<\/li>\n    <li>Einschl\u00e4gige Berufserfahrung in der Softwareentwicklung, idealerweise im Bereich der Objekteinrichtung<\/li>\n    <li>Fundierte Kenntnisse in der Programmierung mit g\u00e4ngigen Sprachen wie Java, C++, oder Python<\/li>\n    <li>Erfahrung mit Datenbanken und Schnittstellenprogrammierung<\/li>\n    <li>Kreativit\u00e4t und Innovationsgeist f\u00fcr die Entwicklung individueller L\u00f6sungen<\/li>\n    <li>Teamf\u00e4higkeit und Kommunikationsst\u00e4rke f\u00fcr die Zusammenarbeit im Team<\/li>\n    <li>Organisationstalent und strukturierte Arbeitsweise zur Einhaltung von Zeitpl\u00e4nen<\/li>\n    <li>Gute Deutschkenntnisse in Wort und Schrift<\/li>\n<\/ul>"
+            },
+            "benefits": {
+                "title": "Wir bieten",
+                "content": "<ul>\n<li>Befristete Vollzeitstelle mit langfristiger Perspektive<\/li>\n<li>M\u00f6glichkeiten zur fachlichen und pers\u00f6nlichen Weiterentwicklung<\/li>\n<li>Arbeiten in einem motivierten Team mit angenehmer Arbeitsatmosph\u00e4re<\/li>\n<li>Attraktives Gehaltspaket und zus\u00e4tzliche Sozialleistungen<\/li>\n<li>Moderne Arbeitsumgebung mit guter Ausstattung<\/li>\n<li>Unterst\u00fctzung bei der Vereinbarkeit von Beruf und Familie<\/li>\n<\/ul>"
+            },
+            "closing_text": {
+                "title": "",
+                "content": "Nutzen Sie die Chance, Ihr Fachwissen weiterzugeben und junge Talente zu f\u00f6rdern! Werden Sie Teil eines dynamischen Teams, das Ihre berufliche Entwicklung unterst\u00fctzt. Gestalten Sie aktiv die Zukunft der Handwerksbranche mit und bewerben Sie sich jetzt!"
+            },
+            "salary": {
+                "content": {
+                    "type": "range",
+                    "period": "YEAR",
+                    "currency": "EUR",
+                    "maxValue": 80000,
+                    "minValue": 50000
+                }
+            },
+            "url_slug": "entwickler",
+            "location": {
+                "city": "Gr\u00fcnenhagen",
+                "type": "single",
+                "street": "Ausbau Nr.4",
+                "country": "Deutschland",
+                "zipcode": "18249",
+                "coordinates": {
+                    "lat": "53.7394800000",
+                    "lng": "11.9922305000"
+                },
+                "street_number": null,
+                "remote_percent": 0
+            },
+            "location_formatted": "in Gr\u00fcnenhagen",
+            "application_method": {
+                "type": "onsite",
+                "contact_ids": [
+                    "b5c89421-10a4-4c49-949b-bd937e985233"
+                ]
+            },
+            "content_order": [
+                {
+                    "key": "responsibilities",
+                    "order": 0
+                },
+                {
+                    "key": "requirements",
+                    "order": 1
+                },
+                {
+                    "key": "benefits",
+                    "order": 2
+                }
+            ]
+        },
+        "relationships": {
+            "qualifications": {
+                "data": []
+            },
+            "working_times": {
+                "data": [
+                    {
+                        "type": "working_times",
+                        "id": "1"
+                    }
+                ]
+            },
+            "employment_types": {
+                "data": [
+                    {
+                        "type": "employment_types",
+                        "id": "1"
+                    }
+                ]
+            },
+            "professions": {
+                "data": []
+            },
+            "contact": {
+                "data": null
+            },
+            "header_image": {
+                "data": null
+            },
+            "pictures": {
+                "data": []
+            },
+            "videos": {
+                "data": []
+            },
+            "job_ad_benefits": {
+                "data": []
+            },
+            "company": {
+                "data": {
+                    "type": "companies",
+                    "id": 29863
+                }
+            }
+        }
+    }
+}

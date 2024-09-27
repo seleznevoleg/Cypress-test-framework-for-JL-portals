@@ -1,0 +1,339 @@
+{
+    "data": {
+        "type": "product-bookings",
+        "id": "30",
+        "attributes": {
+            "product_id": "35",
+            "job_id": "102900",
+            "company_id": "58999",
+            "job_ad_id": "1081751",
+            "domain_id": "35",
+            "user_uuid": "814b0fd4-4f6b-4125-855f-c8cf0bdd51fa",
+            "job_ad_title": "Sachbearbeiter (m\/w\/d) Controlling",
+            "ad_text": "",
+            "city": "",
+            "zipcode": "",
+            "start_at": "2024-08-07 00:00:00",
+            "expired_at": "2024-08-22 00:00:00",
+            "discount": "590.00",
+            "daily_budget": "15.00",
+            "with_flat": 1,
+            "order_status": "success",
+            "external_order_status": "success"
+        },
+        "relationships": {
+            "stats": {
+                "data": {
+                    "type": "stats",
+                    "id": "30"
+                }
+            }
+        }
+    },
+    "included": [
+        {
+            "type": "stats",
+            "id": "30",
+            "data": {
+                "2024-08-07": {
+                    "facebook": {
+                        "costs": 9.5565,
+                        "leads": 0,
+                        "clicks": 20,
+                        "conversions": 0,
+                        "impressions": 575,
+                        "conversions2": 0
+                    },
+                    "instagram": {
+                        "costs": 3.5304999999999995,
+                        "leads": 0,
+                        "clicks": 7,
+                        "conversions": 0,
+                        "impressions": 227,
+                        "conversions2": 0
+                    }
+                },
+                "2024-08-08": {
+                    "facebook": {
+                        "costs": 13.67598515,
+                        "leads": 0,
+                        "clicks": 21,
+                        "conversions": 2,
+                        "impressions": 876,
+                        "conversions2": 0
+                    },
+                    "instagram": {
+                        "costs": 3.76951485,
+                        "leads": 0,
+                        "clicks": 3,
+                        "conversions": 0,
+                        "impressions": 204,
+                        "conversions2": 0
+                    }
+                },
+                "2024-08-09": {
+                    "facebook": {
+                        "costs": 11.96,
+                        "leads": 0,
+                        "clicks": 19,
+                        "conversions": 1,
+                        "impressions": 1106,
+                        "conversions2": 0
+                    },
+                    "instagram": {
+                        "costs": 3.3579999999999997,
+                        "leads": 0,
+                        "clicks": 2,
+                        "conversions": 0,
+                        "impressions": 204,
+                        "conversions2": 0
+                    }
+                },
+                "2024-08-10": {
+                    "facebook": {
+                        "costs": 12.655201449999998,
+                        "leads": 0,
+                        "clicks": 20,
+                        "conversions": 3,
+                        "impressions": 697,
+                        "conversions2": 0
+                    },
+                    "instagram": {
+                        "costs": 3.6977997,
+                        "leads": 0,
+                        "clicks": 6,
+                        "conversions": 0,
+                        "impressions": 232,
+                        "conversions2": 0
+                    }
+                },
+                "2024-08-11": {
+                    "facebook": {
+                        "costs": 15.617,
+                        "leads": 0,
+                        "clicks": 22,
+                        "conversions": 1,
+                        "impressions": 647,
+                        "conversions2": 0
+                    },
+                    "instagram": {
+                        "costs": 3.726,
+                        "leads": 0,
+                        "clicks": 5,
+                        "conversions": 0,
+                        "impressions": 327,
+                        "conversions2": 0
+                    }
+                },
+                "2024-08-12": {
+                    "facebook": {
+                        "costs": 14.3865,
+                        "leads": 0,
+                        "clicks": 41,
+                        "conversions": 2,
+                        "impressions": 1068,
+                        "conversions2": 0
+                    },
+                    "instagram": {
+                        "costs": 4.2204999999999995,
+                        "leads": 0,
+                        "clicks": 4,
+                        "conversions": 0,
+                        "impressions": 361,
+                        "conversions2": 0
+                    }
+                },
+                "2024-08-13": {
+                    "facebook": {
+                        "costs": 17.58442575,
+                        "leads": 0,
+                        "clicks": 21,
+                        "conversions": 1,
+                        "impressions": 631,
+                        "conversions2": 0
+                    },
+                    "instagram": {
+                        "costs": 1.5400742499999998,
+                        "leads": 0,
+                        "clicks": 1,
+                        "conversions": 0,
+                        "impressions": 109,
+                        "conversions2": 0
+                    }
+                },
+                "2024-08-14": {
+                    "facebook": {
+                        "costs": 15.6515,
+                        "leads": 0,
+                        "clicks": 25,
+                        "conversions": 0,
+                        "impressions": 1116,
+                        "conversions2": 0
+                    },
+                    "instagram": {
+                        "costs": 2.162,
+                        "leads": 0,
+                        "clicks": 5,
+                        "conversions": 0,
+                        "impressions": 160,
+                        "conversions2": 0
+                    }
+                },
+                "2024-08-15": {
+                    "facebook": {
+                        "costs": 15.8125,
+                        "leads": 0,
+                        "clicks": 25,
+                        "conversions": 3,
+                        "impressions": 1051,
+                        "conversions2": 0
+                    },
+                    "instagram": {
+                        "costs": 1.196,
+                        "leads": 0,
+                        "clicks": 1,
+                        "conversions": 0,
+                        "impressions": 85,
+                        "conversions2": 0
+                    }
+                },
+                "2024-08-16": {
+                    "facebook": {
+                        "costs": 13.730999999999998,
+                        "leads": 0,
+                        "clicks": 17,
+                        "conversions": 0,
+                        "impressions": 773,
+                        "conversions2": 0
+                    },
+                    "instagram": {
+                        "costs": 0.506,
+                        "leads": 0,
+                        "clicks": 0,
+                        "conversions": 0,
+                        "impressions": 43,
+                        "conversions2": 0
+                    }
+                },
+                "2024-08-17": {
+                    "facebook": {
+                        "costs": 14.283,
+                        "leads": 0,
+                        "clicks": 11,
+                        "conversions": 2,
+                        "impressions": 566,
+                        "conversions2": 0
+                    },
+                    "instagram": {
+                        "costs": 0.33349999999999996,
+                        "leads": 0,
+                        "clicks": 0,
+                        "conversions": 0,
+                        "impressions": 22,
+                        "conversions2": 0
+                    }
+                },
+                "2024-08-18": {
+                    "facebook": {
+                        "costs": 20.125,
+                        "leads": 0,
+                        "clicks": 23,
+                        "conversions": 0,
+                        "impressions": 592,
+                        "conversions2": 0
+                    },
+                    "instagram": {
+                        "costs": 0.1725,
+                        "leads": 0,
+                        "clicks": 1,
+                        "conversions": 0,
+                        "impressions": 18,
+                        "conversions2": 0
+                    }
+                },
+                "2024-08-19": {
+                    "facebook": {
+                        "costs": 18.583999999999996,
+                        "leads": 0,
+                        "clicks": 21,
+                        "conversions": 0,
+                        "impressions": 620,
+                        "conversions2": 0
+                    },
+                    "instagram": {
+                        "costs": 0.368,
+                        "leads": 0,
+                        "clicks": 2,
+                        "conversions": 0,
+                        "impressions": 32,
+                        "conversions2": 0
+                    }
+                },
+                "2024-08-20": {
+                    "facebook": {
+                        "costs": 16.928,
+                        "leads": 0,
+                        "clicks": 33,
+                        "conversions": 2,
+                        "impressions": 671,
+                        "conversions2": 0
+                    },
+                    "instagram": {
+                        "costs": 0.9085,
+                        "leads": 0,
+                        "clicks": 2,
+                        "conversions": 0,
+                        "impressions": 73,
+                        "conversions2": 0
+                    }
+                },
+                "2024-08-21": {
+                    "facebook": {
+                        "costs": 16.1115,
+                        "leads": 0,
+                        "clicks": 18,
+                        "conversions": 1,
+                        "impressions": 471,
+                        "conversions2": 0
+                    },
+                    "instagram": {
+                        "costs": 1.2305,
+                        "leads": 0,
+                        "clicks": 5,
+                        "conversions": 0,
+                        "impressions": 99,
+                        "conversions2": 0
+                    }
+                },
+                "2024-08-22": {
+                    "facebook": {
+                        "costs": 10.1085,
+                        "leads": 0,
+                        "clicks": 15,
+                        "conversions": 0,
+                        "impressions": 583,
+                        "conversions2": 0
+                    },
+                    "instagram": {
+                        "costs": 1.5065,
+                        "leads": 0,
+                        "clicks": 3,
+                        "conversions": 0,
+                        "impressions": 99,
+                        "conversions2": 0
+                    }
+                },
+                "2024-08-24": {
+                    "facebook": {
+                        "costs": 0,
+                        "leads": 0,
+                        "clicks": 0,
+                        "conversions": 0,
+                        "impressions": 0,
+                        "conversions2": 0
+                    }
+                }
+            }
+        }
+    ]
+}

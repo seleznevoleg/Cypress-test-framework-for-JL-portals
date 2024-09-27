@@ -1,0 +1,284 @@
+{
+    "data": {
+        "job": {
+            "id": "a1081751",
+            "company": {
+                "id": 58999
+            },
+            "title": "Sachbearbeiter (m/w/d) Controlling",
+            "migratedTo": null,
+            "hrTool": false,
+            "statistic": {
+                "onDomains": [
+                    {
+                        "id": "35"
+                    },
+                    {
+                        "id": "46"
+                    },
+                    {
+                        "id": "47"
+                    },
+                    {
+                        "id": "49"
+                    },
+                    {
+                        "id": "53"
+                    }
+                ],
+                "applicationContactInformationRequests": [
+                    {
+                        "value": 0,
+                        "domain": {
+                            "id": "35"
+                        },
+                        "date": "ALL",
+                        "timeStep": "ALL"
+                    },
+                    {
+                        "value": 0,
+                        "domain": {
+                            "id": "46"
+                        },
+                        "date": "ALL",
+                        "timeStep": "ALL"
+                    },
+                    {
+                        "value": 0,
+                        "domain": {
+                            "id": "47"
+                        },
+                        "date": "ALL",
+                        "timeStep": "ALL"
+                    },
+                    {
+                        "value": 0,
+                        "domain": {
+                            "id": "49"
+                        },
+                        "date": "ALL",
+                        "timeStep": "ALL"
+                    },
+                    {
+                        "value": 0,
+                        "domain": {
+                            "id": "53"
+                        },
+                        "date": "ALL",
+                        "timeStep": "ALL"
+                    }
+                ],
+                "applications": [
+                    {
+                        "value": 20,
+                        "domain": {
+                            "id": "35"
+                        },
+                        "date": "ALL",
+                        "timeStep": "ALL"
+                    },
+                    {
+                        "value": 0,
+                        "domain": {
+                            "id": "46"
+                        },
+                        "date": "ALL",
+                        "timeStep": "ALL"
+                    },
+                    {
+                        "value": 0,
+                        "domain": {
+                            "id": "47"
+                        },
+                        "date": "ALL",
+                        "timeStep": "ALL"
+                    },
+                    {
+                        "value": 0,
+                        "domain": {
+                            "id": "49"
+                        },
+                        "date": "ALL",
+                        "timeStep": "ALL"
+                    },
+                    {
+                        "value": 0,
+                        "domain": {
+                            "id": "53"
+                        },
+                        "date": "ALL",
+                        "timeStep": "ALL"
+                    }
+                ],
+                "applyButtonClicksWithRedirect": [
+                    {
+                        "value": 0,
+                        "domain": {
+                            "id": "35"
+                        },
+                        "date": "ALL",
+                        "timeStep": "ALL"
+                    },
+                    {
+                        "value": 0,
+                        "domain": {
+                            "id": "46"
+                        },
+                        "date": "ALL",
+                        "timeStep": "ALL"
+                    },
+                    {
+                        "value": 0,
+                        "domain": {
+                            "id": "47"
+                        },
+                        "date": "ALL",
+                        "timeStep": "ALL"
+                    },
+                    {
+                        "value": 0,
+                        "domain": {
+                            "id": "49"
+                        },
+                        "date": "ALL",
+                        "timeStep": "ALL"
+                    },
+                    {
+                        "value": 0,
+                        "domain": {
+                            "id": "53"
+                        },
+                        "date": "ALL",
+                        "timeStep": "ALL"
+                    }
+                ],
+                "impressions": [
+                    {
+                        "value": 97,
+                        "domain": {
+                            "id": "35"
+                        },
+                        "date": "ALL",
+                        "timeStep": "ALL"
+                    },
+                    {
+                        "value": 1,
+                        "domain": {
+                            "id": "46"
+                        },
+                        "date": "ALL",
+                        "timeStep": "ALL"
+                    },
+                    {
+                        "value": 4,
+                        "domain": {
+                            "id": "47"
+                        },
+                        "date": "ALL",
+                        "timeStep": "ALL"
+                    },
+                    {
+                        "value": 1,
+                        "domain": {
+                            "id": "49"
+                        },
+                        "date": "ALL",
+                        "timeStep": "ALL"
+                    },
+                    {
+                        "value": 5,
+                        "domain": {
+                            "id": "53"
+                        },
+                        "date": "ALL",
+                        "timeStep": "ALL"
+                    }
+                ],
+                "jobViews": [
+                    {
+                        "value": 287,
+                        "domain": {
+                            "id": "35"
+                        },
+                        "date": "ALL",
+                        "timeStep": "ALL"
+                    },
+                    {
+                        "value": 0,
+                        "domain": {
+                            "id": "46"
+                        },
+                        "date": "ALL",
+                        "timeStep": "ALL"
+                    },
+                    {
+                        "value": 0,
+                        "domain": {
+                            "id": "47"
+                        },
+                        "date": "ALL",
+                        "timeStep": "ALL"
+                    },
+                    {
+                        "value": 0,
+                        "domain": {
+                            "id": "49"
+                        },
+                        "date": "ALL",
+                        "timeStep": "ALL"
+                    },
+                    {
+                        "value": 0,
+                        "domain": {
+                            "id": "53"
+                        },
+                        "date": "ALL",
+                        "timeStep": "ALL"
+                    }
+                ],
+                "publicationDays": [
+                    {
+                        "value": 16,
+                        "domain": {
+                            "id": "35"
+                        },
+                        "date": "ALL",
+                        "timeStep": "ALL"
+                    },
+                    {
+                        "value": 0,
+                        "domain": {
+                            "id": "46"
+                        },
+                        "date": "ALL",
+                        "timeStep": "ALL"
+                    },
+                    {
+                        "value": 0,
+                        "domain": {
+                            "id": "47"
+                        },
+                        "date": "ALL",
+                        "timeStep": "ALL"
+                    },
+                    {
+                        "value": 0,
+                        "domain": {
+                            "id": "49"
+                        },
+                        "date": "ALL",
+                        "timeStep": "ALL"
+                    },
+                    {
+                        "value": 0,
+                        "domain": {
+                            "id": "53"
+                        },
+                        "date": "ALL",
+                        "timeStep": "ALL"
+                    }
+                ]
+            }
+        }
+    }
+}
